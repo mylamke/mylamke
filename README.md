@@ -5,7 +5,7 @@ I'm a detail-oriented and results-driven Data Analyst, I possess a knack for dec
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
  
-### **Projects for sharing**
+### **My's Projects**
 
 <a href="https://github.com/mylam7/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -19,13 +19,3 @@ I'm a detail-oriented and results-driven Data Analyst, I possess a knack for dec
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=shadow_blue" />
 </a>  
-
-### **Education & Certificates**
-**Centria University of  Applied Sciences** - BA in Business Management	 (Sept 2019 - Feb 2022)
-
-**Industrial University of Ho Chi Minh City** - BA in Banking & Finance (Sept 2015 - Jun 2018)
-
-[**SQL Intermediate Certificate at Hackerrank**](https://www.hackerrank.com/certificates/17b0cfed2ea2) (Jun 2023)
-
-[**SQL Advanced Certificate at Hackerrank**](https://www.hackerrank.com/certificates/2f2af6f89d1c) (Jul 2023)
-
