@@ -1,4 +1,4 @@
-##  Welcome to a world of a true data passioner
+##  Welcome to the world of a data passioner
 Hi there, 
 It's My Lam here. 
 
