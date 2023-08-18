@@ -1,5 +1,5 @@
 ## A passionate about the power of data
-*Hi there, It's My Lam aka Khloe here
+*Hi there, It's My Lam here. 
 I'm a detail-oriented and results-driven Data Analyst, I possess a knack for deciphering complex information to drive actionable outcomes. My journey includes merging technical expertise with effective communication, I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python and Power BI, enabling me to manipulate data with precision and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to make a meaningful impact on data-driven initiatives.*
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
