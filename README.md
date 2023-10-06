@@ -50,9 +50,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-PBI_Inventory_Controlling&theme=shadow_blue" />
 </a>  
 
-<a href="https://github.com/mylam7/Explore-Ecommerce-Dataset/tree/main">
+<a href="https://github.com/mylam7/SQL-Explore-Ecommerce-Dataset/tree/main">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Explore-Ecommerce-Dataset&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-Explore-Ecommerce-Dataset&theme=shadow_blue" />
 </a>  
 
 <a href="https://github.com/mylam7/ML_4G_service_project">
