@@ -58,8 +58,11 @@
 <a href="https://github.com/mylam7/ML_4G_service_project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=ML_4G_service_project&theme=shadow_blue" />
-
+</a>  
 <a href="https://github.com/mylam7/Python-RFM-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Python-RFM-Analysis&theme=shadow_blue" />
-</a>  
+</a> 
+<a href="https://github.com/mylam7/Python_Cohort_Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Python_Cohort_Analysis&theme=shadow_blue" />
