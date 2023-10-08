@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## My's Tools  🛠
+## My Tools  🛠
 <div align="center">  
 <a href="https://https://www.mysql.com//" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mysql" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -43,7 +43,7 @@
 
 <div align="center">
  
-### 👇 **My's Projects**
+### 👇 **My Projects**
 
 <a href="https://github.com/mylam7/SQL-PBI_Inventory_Controlling">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
