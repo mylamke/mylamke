@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [Khloe](https://www.linkedin.com/in/mylam7/) here, welcome to my GitHub profile! :octocat:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [My Lam](https://www.linkedin.com/in/mylam7/) here, welcome to my GitHub profile! :octocat:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C+;A+Business+Business+Intelligence+Analyst )
 
 [![Gmail Badge](https://img.shields.io/badge/-mylam7397-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mylam7397@gmail.com)](mailto:email@anuragsingh.dev)
