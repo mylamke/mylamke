@@ -45,24 +45,24 @@
  
 ### 👇 **My Projects**
 
-<a href="https://github.com/mylam7/SQL-PBI_Inventory_Controlling">
+<a href="https://github.com/mylamke/SQL-PBI_Inventory_Controlling">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-PBI_Inventory_Controlling&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=SQL-PBI_Inventory_Controlling&theme=shadow_blue" />
 </a>  
 
-<a href="https://github.com/mylam7/SQL-Explore-Ecommerce-Dataset/tree/main">
+<a href="https://github.com/mylamke/SQL-Explore-Ecommerce-Dataset/tree/main">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-Explore-Ecommerce-Dataset&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=SQL-Explore-Ecommerce-Dataset&theme=shadow_blue" />
 </a>  
 
-<a href="https://github.com/mylam7/ML_4G_service_project">
+<a href="https://github.com/mylamke/ML_4G_service_project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=ML_4G_service_project&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=ML_4G_service_project&theme=shadow_blue" />
 </a>  
-<a href="https://github.com/mylam7/Python-RFM-Analysis">
+<a href="https://github.com/mylamke/Python-RFM-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Python-RFM-Analysis&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=Python-RFM-Analysis&theme=shadow_blue" />
 </a> 
-<a href="https://github.com/mylam7/Python_Cohort_Analysis">
+<a href="https://github.com/mylamke/Python_Cohort_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Python_Cohort_Analysis&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=Python_Cohort_Analysis&theme=shadow_blue" />
