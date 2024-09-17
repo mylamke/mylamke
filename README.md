@@ -25,7 +25,7 @@
  
 **About me**
 
-👩‍🎓 A detail-oriented and results-driven Data Analyst. My journey includes merging technical expertise with effective communication; I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python, and Power BI, enabling me to precisely manipulate data and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to impact data-driven initiatives meaningfully.
+👩‍🎓
 
 ✍️BA in Business Management graduated from the Centria University of Applied Sciences
 
