@@ -25,9 +25,7 @@
  
 **About me**
 
-👩‍🎓
-
-✍️BA in Business Management graduated from the Centria University of Applied Sciences
+👩‍🎓✍️BA in Business Management graduated from the Centria University of Applied Sciences
 
 <br>
 
