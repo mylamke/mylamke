@@ -6,7 +6,7 @@
 <h1> Hi There! 👋 </h1>
   
  
- 
+    
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [My Lam](https://www.linkedin.com/in/mylamke/) here, welcome to my GitHub profile! :octocat:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C+;A+Business+Intelligence+Analyst )
