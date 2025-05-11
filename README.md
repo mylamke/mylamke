@@ -20,7 +20,7 @@
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
 
-</div>
+</div> 
 
  
 **About me**
